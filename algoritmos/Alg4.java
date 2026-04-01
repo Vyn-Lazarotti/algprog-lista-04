@@ -15,8 +15,6 @@ public class Main {
                 System.out.println("O país A vai se igualar ou passar o país B em " + anos + " anos");
                 break;
             }
-        }
-        
-        
+        } 
     }
 }
