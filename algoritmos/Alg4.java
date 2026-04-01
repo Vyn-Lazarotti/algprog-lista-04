@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Main {
+public class Alg4 {
     public static void main(String[] args) {
         System.out.println("A população de um país A é da ordem de 80 mil habitantes com uma taxa anual de crescimento de 3% e a população de B seja 200 mil habitantes com uma taxa de crescimento de 1.5%.");
         double paisA = 80000;
