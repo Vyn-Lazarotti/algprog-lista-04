@@ -12,7 +12,7 @@ Todos os algoritmos neste repositório são exercícios da faculdade e foram pro
   
 - Alg4 é um programa que calcula e escreve o número de anos necessários para que a população do país A ultrapasse ou iguale a população do país B, mantidas as taxas de crescimento.
   
-- Alg5 é uma modificicação do programa anterior, permitindo o usuário informar os números.
+- Alg5 é uma modificação do programa anterior, permitindo o usuário informar os números.
   
 - Alg6 é um programa que imprime na tela os números de 1 a 20, um abaixo do outro. Depois o programa mostra os números um ao lado do outro.
   
