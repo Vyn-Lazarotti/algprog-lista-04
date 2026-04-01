@@ -18,8 +18,8 @@ Todos os algoritmos neste repositório são exercícios da faculdade e foram pro
   
 - Alg7 é um programa que lê 5 números e informa o maior dentre eles.
   
-- Alg8 se trata de um programa que lê 5 números e informa a soma e a média dentre eles.
+- Alg8 é um programa que lê 5 números e informa a soma e a média dentre eles.
   
-- Alg9 se trata de um programa que imprime na tela apenas os números ímpares entre 1 e 50.
+- Alg9 é um programa que imprime na tela apenas os números ímpares entre 1 e 50.
   
-- Alg10 se trata de um programa que recebe dois números inteiros e gera os números inteiros que estão no intervalo compreendido por eles.
+- Alg10 é um programa que recebe dois números inteiros e gera os números inteiros que estão no intervalo compreendido por eles.
